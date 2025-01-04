@@ -8,17 +8,7 @@ Este repositório apresenta dois projetos desenvolvidos no âmbito de Inteligên
 
 ## Projetos Incluídos
 
-### 1. **Análise de Dados e Algoritmos de Aprendizagem Automática**
-- **Objetivo**: Explorar e aplicar três abordagens principais de aprendizado automático:
-  1. **Classificação Automática**: Previsão de classes baseadas em dados rotulados.
-  2. **Agrupamento/Clustering**: Descoberta de padrões em dados não rotulados.
-  3. **Regras de Associação**: Identificação de relações entre variáveis em grandes conjuntos de dados.
-- **Ferramentas**: 
-  - Algoritmos como KNN, Decision Tree, K-Means, e Apriori.
-  - Bibliotecas de ciência de dados (`pandas`, `numpy`, `sklearn`, `mlxtend`).
-- **Resultados**: Gráficos e análises que demonstram o desempenho dos modelos.
-
-### 2. **Agendamento de Tarefas com Restrições**
+### 1. **Agendamento de Tarefas com Restrições**
 - **Objetivo**: Resolver problemas de agendamento de tarefas com restrições como precedência, limitação de recursos e prazos de entrega.
 - **Abordagem**: 
   - Definição do problema como um CSP (Problema de Satisfação de Restrições).
@@ -27,6 +17,16 @@ Este repositório apresenta dois projetos desenvolvidos no âmbito de Inteligên
   - `python-constraint` para modelagem.
   - `matplotlib` para visualização (ex.: gráficos de Gantt).
 - **Resultados**: Cronogramas otimizados com visualizações claras das restrições atendidas.
+
+### 2. **Análise de Dados e Algoritmos de Aprendizagem Automática**
+- **Objetivo**: Explorar e aplicar três abordagens principais de aprendizado automático:
+  1. **Classificação Automática**: Previsão de classes baseadas em dados rotulados.
+  2. **Agrupamento/Clustering**: Descoberta de padrões em dados não rotulados.
+  3. **Regras de Associação**: Identificação de relações entre variáveis em grandes conjuntos de dados.
+- **Ferramentas**: 
+  - Algoritmos como KNN, Decision Tree, K-Means, e Apriori.
+  - Bibliotecas de ciência de dados (`pandas`, `numpy`, `sklearn`, `mlxtend`).
+- **Resultados**: Gráficos e análises que demonstram o desempenho dos modelos.
 
 ---
 
