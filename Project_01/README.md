@@ -31,6 +31,7 @@ O projeto é desenvolvido em Python, utilizando bibliotecas como `python-constra
    ```bash
    git clone https://github.com/Dev2C1Vieira/IA24_L09.git
    cd IA24_L09
+   cd Project_01
 
 
 ## Tecnologias Utilizadas
